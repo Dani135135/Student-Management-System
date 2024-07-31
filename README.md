@@ -82,5 +82,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 This project was developed as part of a learning exercise to demonstrate basic C++ programming concepts, including file handling and user input.
 
 ---
-
-Feel free to modify this README file to suit your specific needs or to add more details about the project as it evolves.
